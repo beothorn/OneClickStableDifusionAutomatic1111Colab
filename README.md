@@ -1,0 +1,1 @@
+# OneClickStableDifusionAutomatic1111Colab
