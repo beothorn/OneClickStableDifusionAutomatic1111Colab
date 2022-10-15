@@ -1,4 +1,12 @@
-# Colab notebook StableDifusion Automatic1111
+# One click Automatic1111
+
+This is just a launcher for [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) using google colab.
+
+[AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) is currently the best web ui to work with stable diffusion.
+
+This launcher runs in a single cell and caches as much as possible on google drive for fast startup time.
+
+# How
 
 Create an account at [huggingface](https://huggingface.co)
 
