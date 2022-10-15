@@ -8,4 +8,4 @@ Copy the token and run this colab, give it permission to access google drive.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/beothorn/OneClickStableDifusionAutomatic1111Colab/blob/main/StableDifusionAutomatic1111.ipynb)
 
-Open the link printed on the console and have fun!!
+Open the link printed (something like https://12345.gradio.app) on the console and have fun!!
