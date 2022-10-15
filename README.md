@@ -4,4 +4,4 @@
 
 This colab runs Automatic1111 in a single cell.
 
-It also saves the Stable Difusion model to google drive for faster startup.
+It also saves the workspace, including model, on your google drive so next startup is a lot faster.
