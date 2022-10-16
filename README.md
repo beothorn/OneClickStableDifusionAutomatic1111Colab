@@ -4,7 +4,7 @@ This is just a launcher for [AUTOMATIC1111](https://github.com/AUTOMATIC1111/sta
 
 [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) is currently the best web ui to work with stable diffusion.
 
-This launcher runs in a single cell and uses google drive as your disk. This means your generations are saved to gdrive and faster startup times.
+This launcher runs in a single cell and uses google drive as your disk. This means your generations are saved to gdrive and faster startup times (no redownloading model/updating repos).
 
 Also a random password is generated on each run, which makes it safer from getting hijacked by bots scanning gradio urls.
 
