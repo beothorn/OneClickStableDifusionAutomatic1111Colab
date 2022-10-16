@@ -6,6 +6,8 @@ This is just a launcher for [AUTOMATIC1111](https://github.com/AUTOMATIC1111/sta
 
 This launcher runs in a single cell and uses google drive as your disk. This means your generations are saved to gdrive and faster startup times.
 
+Also a random password is generated on each run, which makes it safer from getting hijacked by bots scanning gradio urls.
+
 # How
 
 Create an account at [huggingface](https://huggingface.co)
