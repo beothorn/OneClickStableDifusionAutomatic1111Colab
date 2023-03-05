@@ -1,6 +1,6 @@
 # One click image generator
 
-If you want to play around with the image generating AI stable diffusion you can follow this guide. If you just wan to start it already, jump to the How section below.
+If you want to play around with the image generating AI stable diffusion you can follow this guide. If you just want to start already, jump to the [How](https://github.com/beothorn/OneClickStableDifusionAutomatic1111Colab#how) section below.
 
 # What
 
