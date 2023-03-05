@@ -21,9 +21,9 @@ This is a very small and mostly too simple explanation of the things related to 
 
 Artificial intelligence and machine learning are very broad concepts. The kind of machine learning that is making the news and revolutionizing content creation are neural networks.  
 Don't let the name fool you though, they are just a single math function that takes an input and produces an output, and there is a lot of constants inside it.  
-What is called training is basically getting a database of inputs and expected outputs, running this function over the input, measuring the difference between what came out of the function and what was expected and the tweaking all constansts inside the function so the output is closer to the expected output.  
+What is called training is basically getting a database of inputs and expected outputs, running this function over the input, measuring the difference between what came out of the function and what was expected and then tweaking all constants inside the function so the function output is closer to the expected output.  
 The model, the thing you download, is a file (or several files) containing those constants.  
-The main take away from this is, AI is just a huge single function that needs a bunch of constants inside.  
+The main take away from this is, this AI is just a huge single function that needs a bunch of constants inside.  
 
 ## Stable diffusion
 
