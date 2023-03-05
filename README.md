@@ -48,7 +48,11 @@ Code is run using python notebooks.
 ## AUTOMATIC1111
 
 This is a developer that created an web ui for stable diffusion. This is the ui adopted by most of the community. There are others, but tis is by far the most active.  
- 
+
+## r/StableDiffusion
+
+By far, the best place to learn more about stable diffusion is this [subreddit](https://www.reddit.com/r/StableDiffusion)
+
 # How
 
 You will need a google account.  
