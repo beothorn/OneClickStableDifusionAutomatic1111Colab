@@ -28,7 +28,9 @@ The main take away from this is, this AI is just a huge single function that nee
 ## Stable diffusion
 
 An AI that learned how to remove noise from images. Trained by taking an image, adding some noise and then using the noise image as input and the clear image as expected output. It also used an image already with noise, added even more noise and trained the AI with this, so the AI just tries to remove a little bit of noise per step.  
-But when you add any image it always tries to denoise it, and that is how it generates images. It is like when you look at the clouds and see shapes when there is nothing actually there.  
+The trick is that when you input any image it always tries to denoise it. That is how it generates images.  
+
+It is like when you look at the clouds and see shapes when there is nothing actually there.  
 
 ## StableAI
 
