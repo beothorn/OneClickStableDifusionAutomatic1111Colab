@@ -12,8 +12,6 @@ Also a random password is generated on each run, which makes it safer from getti
 
 Create an account at [huggingface](https://huggingface.co)
 
-Accept the agreement for the SD [model 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1)
-
 Create a token at [https://huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)
 
 Copy the token and run this colab, give it permission to access google drive.
