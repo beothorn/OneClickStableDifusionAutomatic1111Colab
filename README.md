@@ -1,13 +1,17 @@
 # One click Automatic1111
 
-If you want to play around with the image generating AI stable diffusion you cn follow this guide. If you just wan to start it already, jump to the How section below.
+If you want to play around with the image generating AI stable diffusion you can follow this guide. If you just wan to start it already, jump to the How section below.
 
 # What
 
 This is just a launcher for [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) stable diffusion web ui using google colab.  
 [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) is currently the best web ui to work with stable diffusion.  
+
 This launcher runs in a single cell and uses google drive as your disk. This means your generations are saved to gdrive and next time you run it, it will not redownload anything, so it should start faster.  
+
 Also a random password is generated on each run, which makes it safer from getting hijacked by bots scanning gradio urls.  
+
+If this does not work for you or you prefer a notebook with a more active community, take a look at [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion)
 
 # Who is who, what is what
 
