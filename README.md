@@ -36,6 +36,11 @@ It is like when you look at the clouds and see shapes when there is nothing actu
 
 The company  that trained stable diffusion and released it for free. They have a paid online editor [dreamstudio](https://beta.dreamstudio.ai)
 
+## Laion
+
+The database used to train stable diffusion.  
+You can [explore it here](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images)
+
 ## HuggingFace
 
 A company that offers something like a github but for AI. You can host models, datasets and other things there. They also provide a library (transformes library) that make it suer simple to use the models (and other things) they are hosting.  
@@ -48,6 +53,11 @@ Code is run using python notebooks.
 ## AUTOMATIC1111
 
 This is a developer that created an web ui for stable diffusion. This is the ui adopted by most of the community. There are others, but tis is by far the most active.  
+
+## Controlnet
+
+[ControlNet is a neural network structure to control diffusion models by adding extra conditions.](https://github.com/lllyasviel/ControlNet)  
+In practice, gives you some new ways to control your outputs on img2img. It is better to look at the link to understand it.  
 
 ## r/StableDiffusion
 
@@ -76,3 +86,7 @@ Use the user as user and the password you copied from the console.
 ![Log in](https://github.com/beothorn/OneClickStableDifusionAutomatic1111Colab/raw/main/gradioLogin.png)  
 You should then see the webui  
 ![This is cool](https://github.com/beothorn/OneClickStableDifusionAutomatic1111Colab/raw/main/webUi.png)
+
+# Install controlnet
+
+There is a cell at the end that you can run to download the models and install the controlnet extension.  
