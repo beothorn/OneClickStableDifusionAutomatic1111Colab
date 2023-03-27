@@ -68,6 +68,10 @@ In practice, gives you some new ways to control your outputs on img2img. It is b
 
 By far, the best place to learn more about stable diffusion is this [subreddit](https://www.reddit.com/r/StableDiffusion)
 
+## TL;DR;
+
+You can run the image generation program on a machine from google with the free tier. It will require you to look at some logs and try to find an url on them, but it is basically pressing a button.
+
 # How
 
 You will need a google account.  
