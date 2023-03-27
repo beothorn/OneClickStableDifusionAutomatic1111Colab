@@ -54,6 +54,11 @@ Code is run using python notebooks.
 
 This is a developer that created an web ui for stable diffusion. This is the ui adopted by most of the community. There are others, but tis is by far the most active.  
 
+## Models
+
+Anyone can take the model and train a new model. The end result is usually a .ckpt file (stands for checkpoint).  
+Those are customized to behave differently, see for example [this one trained on disney animations](https://huggingface.co/nitrosocke/mo-di-diffusion).
+
 ## Controlnet
 
 [ControlNet is a neural network structure to control diffusion models by adding extra conditions.](https://github.com/lllyasviel/ControlNet)  
@@ -86,6 +91,10 @@ Use the user as user and the password you copied from the console.
 ![Log in](https://github.com/beothorn/OneClickStableDifusionAutomatic1111Colab/raw/main/gradioLogin.png)  
 You should then see the webui  
 ![This is cool](https://github.com/beothorn/OneClickStableDifusionAutomatic1111Colab/raw/main/webUi.png)
+
+# Install models
+
+There is a cell for that.
 
 # Install controlnet
 
