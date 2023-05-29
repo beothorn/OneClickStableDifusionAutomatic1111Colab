@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/beothorn/OneClickStableDifusionAutomatic1111Colab/blob/main/StableDifusionAutomatic1111.ipynb)  
+
 # One click image generator
 
 If you want to play around with the image generating AI stable diffusion you can follow this guide. If you just want to start already, jump to the [How](https://github.com/beothorn/OneClickStableDifusionAutomatic1111Colab#how) section below.
